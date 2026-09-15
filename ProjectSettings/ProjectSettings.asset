@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: b40b1ac965ce5204e9a09c0c0798eb42
+  productGUID: 2abdccd2f7b92ab47a0709c570ce6ff6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: GIMM Lecture Project
+  productName: My project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -834,14 +834,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: GIMM Lecture Project
+  metroPackageName: My project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: GIMM Lecture Project
+  metroApplicationDescription: My project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -912,10 +912,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 58aaeace-9a1c-47ef-9a27-8c4e6e80643a
+  cloudProjectId: b4631f70-7eb7-4f43-87c1-2103aec061c8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: GIMM Lecture Project
+  projectName: Unity 2D Platformer Tutorial
   organizationId: dysongregory
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
